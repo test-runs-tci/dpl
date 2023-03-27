@@ -16,7 +16,7 @@ module Dpl
       str
 
       gem 'octokit', '~> 4.15.0'
-      gem 'mime-types', '~> 3.2.2'
+      gem 'mime-types', '~> 3.3.1'
       gem 'public_suffix', '~> 3.0.3'
 
       env :github, :releases
